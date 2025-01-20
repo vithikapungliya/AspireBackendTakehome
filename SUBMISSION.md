@@ -63,11 +63,11 @@ This file contains the logic to update the summary of a module. The function is:
 # API Endpoint Documentation
 
 ## Image 1: Endpoint Created to Post
-![Endpoint Created to Post](images\process_endpoint.png)
+![Endpoint Created to Post](images/process_endpoint.png)
 
 ## Image 2: Endpoint Showing Data Inserted Correctly
-![Endpoint Showing Data Inserted Correctly](images\response.png)
+![Endpoint Showing Data Inserted Correctly](images/response.png)
 
 ## Image 3: Data in the Database
-![Data in Database](images\workbench.png)
+![Data in Database](images/workbench.png)
 
